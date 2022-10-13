@@ -1,2 +1,2 @@
 # preccm
-Página oficial del pre ccm.
+https://djatwz.github.io/preccm/pre-ccm/index.html
